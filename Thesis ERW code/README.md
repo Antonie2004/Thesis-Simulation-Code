@@ -51,5 +51,3 @@ tables fix their seeds for exact reproducibility (Section 4.2.4 uses
 | Figure 6.3 | Empirical coverage of the diffusive confidence interval |
 | Table 6.1 | Monte Carlo coverage study (mean estimator, coverage, interval lengths) |
 | Figure 7.1 | Sample paths of the three-dimensional ERW |
-| Other / distribution grid (4.2.3) | 3x3 grid of rescaled histograms across `p` and `q` |
-| Other / counting zeros (5.4) | Counting-zero process in the superdiffusive (transient) regime |
