@@ -1,8 +1,3 @@
-# Python dependencies for the ERW figure/table notebooks.
-# Tested with Python 3.10+. Only these third-party packages are used
-# (the stdlib modules math, secrets and time need no install).
-#
-# Install with:  pip install -r requirements.txt
 
 numpy>=1.24
 scipy>=1.10
